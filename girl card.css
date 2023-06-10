@@ -1,0 +1,17 @@
+body{
+    background-color: #D0C5B1;
+}
+
+div{
+    width: 380px;
+    height: 750px;
+    background-color: #B2A19D;
+    color: #354259;
+}
+
+button{
+    width: 150px;
+    height: 35px;
+    background-color: #ECE5C7;
+    color: #354259;
+}
